@@ -1,4 +1,4 @@
-# Git Training Part II
+# Git Training Part 2
 
 This is an edit from github
 
