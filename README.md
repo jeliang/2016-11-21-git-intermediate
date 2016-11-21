@@ -9,3 +9,5 @@ Today we will discuss:
 - pull requests
 - forks
 - etc...
+
+Additional text for new_branch.
